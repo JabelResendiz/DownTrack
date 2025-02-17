@@ -1,5 +1,4 @@
- 
-# DownTrack
+# Down-Track
 
 <div style="text-align: center;">
   <img src="./logo.jpg" alt="DownTrack Logo" style="width: 200px;">
